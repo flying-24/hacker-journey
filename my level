@@ -1,6 +1,6 @@
-​🛡️ Cybersecurity Tools & Operations Lab
+​ Cybersecurity Tools & Operations Lab
 ​دليل الأدوات والتقنيات التي أتقنت استخدامها في مختبر الأمن السيبراني.
-​📱 Mobile Penetration Testing (Metasploit)
+​ Mobile Penetration Testing (Metasploit)
 ​إطار عمل Metasploit هو الأداة الأقوى في استغلال الثغرات والتحكم بالأجهزة عن بُعد.
 ​msfvenom: الأداة التي استخدمتها لصناعة ملفات الاختراق (Payloads) مثل تطبيقات الأندرويد الخبيثة وتشفيرها.
 ​msfconsole: الواجهة البرمجية الأساسية التي أدرت من خلالها عملية الاستغلال والتحكم بالكامل.
@@ -12,18 +12,18 @@
 ​airodump-ng: الأداة المسؤولة عن مسح موجات الراديو، تحديد الأهداف، والتقاط ملف الهاندشيك (.cap).
 ​aireplay-ng: الأداة المستخدمة لحقن الحزم وتنفيذ هجوم الفصل (Deauth Attack) لإجبار الأجهزة على إعادة الاتصال.
 ​aircrack-ng: المحرك الأساسي لفك تشفير كلمة السر باستخدام هجوم القاموس (Dictionary Attack).
-​🔍 Network Scanning & Analysis
+​ Network Scanning & Analysis
 ​أدوات فحص واكتشاف الأجهزة داخل الشبكة وتحليل بياناتها.
 ​nmap: أداة فحص المنافذ واكتشاف الأجهزة والخدمات النشطة في الشبكة.
 ​wireshark: البرنامج الأقوى لتحليل حزم الشبكة ورؤية البيانات المارة بالتفصيل.
 ​tcpdump: أداة خفيفة وسريعة عبر التيرمينال لالتقاط الحزم وحفظها للتحليل.
 ​netcat (nc): أداة اختبار الاتصالات وفتح المنافذ (تلقب بسكين الجيش السويسري للهاكرز).
-​🔑 Password Cracking & Database Exploitation
+​ Password Cracking & Database Exploitation
 ​أدوات متخصصة في كسر التشفير وتخمين كلمات السر.
 ​john (John the Ripper): أداة احترافية لفك تشفير الهاشات (Hashes) بأنواعها المختلفة.
 ​hydra: أداة سريعة جداً لتنفيذ هجمات التخمين (Brute Force) على كلمات سر الخدمات.
 ​sqlmap: الأداة التي تكتشف وتستغل ثغرات حقن قواعد البيانات (SQL Injection) آلياً.
 ​hashcat: أسرع أداة لكسر الهاشات تعتمد على قوة كرت الشاشة (GPU).
-​🌐 Web & Networking Basics
+​ Web & Networking Basics
 ​Apache2: خادم الويب الذي استخدمته لاستضافة صفحاتك المخصصة.
 ​Bettercap: الإطار الشامل لهجمات "الرجل في المنتصف" (MITM) وتزييف الـ DNS.
