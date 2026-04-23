@@ -16,5 +16,5 @@ sudo gunzip /usr/share/wordlists/rockyou.txt.gz
 # نسخ القائمة لسطح المكتب لسهولة الوصول
 cp /usr/share/wordlists/rockyou.txt ~/Desktop/
 
-# تنفيذ أمر كسر التشفير باستخدام القائمة المخصصة
+# تنفيذ  أمر كسر التشفير باستخدام القائمة المخصصة
 aircrack-ng -w ~/Desktop/mypass.txt ~/Desktop/handshake_file.cap
